@@ -4937,6 +4937,10 @@ const UnovaFluteMaster = new GemMasterShop(GameConstants.GemShops.UnovaFluteMast
 
 //Unova Berry Master
 const DriftveilBerryMaster = new BerryMasterShop(GameConstants.BerryTraderLocations['Driftveil City'],[
+    ItemList.Boost_Mulch,
+    ItemList.Rich_Mulch,
+    ItemList.Surprise_Mulch,
+    ItemList.Amaze_Mulch,
     ItemList.Freeze_Mulch,
     ItemList.Berry_Shovel,
     ItemList.Mulch_Shovel,
